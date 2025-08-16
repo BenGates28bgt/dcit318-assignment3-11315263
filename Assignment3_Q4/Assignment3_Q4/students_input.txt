@@ -1,0 +1,3 @@
+101, Alice Smith, 84
+102, Bob Johnson, 73
+103, Carol Doe, 59
